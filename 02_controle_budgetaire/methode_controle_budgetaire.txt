@@ -1,0 +1,12 @@
+# Contrôle budgétaire - méthode de travail
+
+# Le fichier budget_simule.csv contient un budget mensuel et une réalisation simulée
+# pour un commerce fictif sur 12 mois.
+# Écart en valeur = Réel - Budget
+# Écart en % = (Réel - Budget) / Budget
+# Attention au sens :
+# - Pour le chiffre d'affaires, un écart positif est généralement favorable.
+# - Pour une charge, un écart positif est généralement défavorable.
+# - L'écart de résultat doit être analysé en combinant revenus et charges.
+# - Un écart défavorable n'est pas automatiquement une faute de gestion :
+#   il faut rechercher volume, prix, mix produit, saisonnalité ou événement ponctuel.
